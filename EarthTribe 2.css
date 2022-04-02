@@ -1,0 +1,298 @@
+
+
+#Container1 {
+    background-color: rgb(241, 236, 236);
+    min-width: 1000px;
+    max-width: 1200px;
+    height: auto;
+    margin: 30px;
+    
+}
+
+#Container1-Box1 {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    padding-left: 30px;
+    
+}
+
+#Header-Paragraph {
+    position: relative;
+    min-width: 720px;
+    font-weight: bold;
+    
+}
+
+#Join-Button {
+    position: relative;
+    top: 12px;
+    
+}
+
+#Dropdown {
+    position: relative;
+    top: 13px;
+    
+}
+
+#Reference-Box3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+
+#Container1-Box2 {
+    display: flex;
+    flex-direction: column;
+    max-width: 60%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+#First-Paragraph {
+    margin-bottom: -20px
+}
+
+#Second-Paragraph {
+    padding-bottom: 0px;
+}
+
+#Container1-Box3 {
+    width: 160px;
+    height: 160px;
+    border-radius: 5px;
+    background-color: grey;
+    position: relative;
+    right: -130px;
+    margin: 20px;
+
+}
+
+#Container2 {
+    /*background-color: rgb(179, 11, 11);*/
+    min-width: 800px;
+    max-width: 900px;
+    margin: 100px;
+    margin-top: 50px;
+    
+    
+}
+
+#First-Paragraph2 {
+    max-width: 70%;
+    padding-left: 15px;
+}
+
+#Second-Paragraph2 {
+    max-width: 70%;
+    padding-left: 15px;
+}
+
+#Container2-Box1 {
+    height: auto;
+    display: flex; /*<-- read up on later*/
+    flex-direction: row; /*<-- read up on later*/
+    justify-content: space-evenly; /*<-- read up on later*/
+    padding-left: 7px;
+    padding-bottom: 20px;
+     
+}
+
+.Three-Boxes {
+    width: 30%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#Boxinbox1 {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    
+}
+
+#Smallboxtop1 {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(197, 190, 190);
+}
+
+#Smallerboxtop1 {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    margin: 7px;
+    border-radius: 5px;
+}
+
+#Smallboxbot1 {
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#BoxButton1 {
+    background-color: rgb(51, 50, 50);
+    align-self: flex-start;
+    margin: 10px;
+    border-radius: 10px;
+    color:rgb(255, 255, 255)
+    
+}
+
+#Boxinbox2 {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+   
+}
+
+#Smallboxtop2 {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(197, 190, 190);
+}
+
+#Smallerboxtop2 {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    margin: 7px;
+    border-radius: 5px;
+}
+
+#Smallboxbot2 {
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#BoxButton2 {
+    background-color: rgb(51, 50, 50);
+    align-self: flex-start;
+    margin: 10px;
+    border-radius: 10px;
+    color:rgb(255, 255, 255)
+    
+}
+
+#Boxinbox3 {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    
+}
+
+#Smallboxtop3 {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(197, 190, 190);
+}
+
+#Smallerboxtop3 {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    margin: 7px;
+    border-radius: 5px;
+}
+
+#Smallboxbot3 {
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#BoxButton3 {
+    background-color: rgb(51, 50, 50);
+    align-self: flex-start;
+    margin: 10px;
+    border-radius: 10px;
+    color:rgb(255, 255, 255);
+    
+}
+.All-Circles {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Circles {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(197, 190, 190);
+    border-radius: 50%;
+    margin-left: 6px;
+    
+}
+
+#Container3 {
+    /*background-color: rgb(179, 11, 11);*/
+    min-width: 600px;
+    max-width: 700px;
+    margin-left: 185px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+#Container3-Box1 {
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    background-color: grey;
+    padding: 15px;
+    margin-top: 20px;
+    
+}
+
+#Container3-Paragraph1 {
+    width: 300px;
+    height: 300px;
+
+}
+
+#Container4 {
+    /*background-color: rgb(179, 11, 11);*/
+    min-width: 600px;
+    max-width: 700px;
+    margin-left: 185px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+#Container4-Paragraph1 {
+    width: 300px;
+    height: 300px;
+
+}
+
+#Container4-Box1 {
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+    background-color: grey;
+    padding: 15px;
+    margin-top: 20px;
+    
+}
+
+#BoxButton4 {
+    background-color: rgb(51, 50, 50);
+    width: 60%;
+    border-radius: 5px;
+    color:rgb(255, 255, 255);
+    padding: 5px;
+    margin-bottom: 20px;
+
+}
