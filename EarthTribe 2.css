@@ -1,4 +1,8 @@
-
+.page-center-aligned {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 #Container1 {
     background-color: rgb(241, 236, 236);
